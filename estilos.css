@@ -1,0 +1,273 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+    font-family: go;
+    src: url(Go-Regular.ttf);
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header {
+    width: 100%;
+}
+.menu {
+    background-color: #2b2a2a;
+    text-align: center;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+    display: block;
+    color: #a59e9e;
+    padding: 16px 10px;
+    font-family: go;
+    font-size: 15px;
+}
+
+.menu ul li a:hover {
+    color: white;
+}
+
+.fonte {
+    font-family: go;
+}
+
+.botoes {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+.logo {
+    position: absolute;
+    left: 8px;
+    top: 3px;
+}
+
+.titulo-descobrir {
+    position: absolute;
+    left: 210px;
+    top: 100px;
+}
+
+.titulo-navegar {
+    position: absolute;
+    left: 310px;
+    top: 100px;
+}
+
+.jogo-destaque {
+    position: absolute;
+    left: 210px;
+    top: 160px;
+}
+
+.legenda-destaque {
+    position: absolute;
+    left: 800px;
+    top: 159px;
+}
+
+.disponivel-destaque {
+    position: absolute;
+    left: 840px;
+    top: 240px;
+}
+
+.titulo-destaque {
+    position: absolute;
+    left: 840px;
+    top: 280px;
+}
+
+.descricao-destaque {
+    position: absolute;
+    left: 840px;
+    top: 320px;
+}
+
+.saiba-mais {
+    position: absolute;
+    left: 840px;
+    top: 450px;
+}
+
+.seta-direita {
+    position: absolute;
+    left: 950px;
+    top: 450px;
+}
+
+.lancamentos {
+    position: absolute;
+    left: 230px;
+    top: 560px;
+}
+
+.capa-1 {
+    position: absolute;
+    left: 230px;
+    top: 600px;
+}
+
+.capa-2 {
+    position: absolute;
+    left: 475px;
+    top: 600px;
+}
+
+.capa-3 {
+    position: absolute;
+    left: 720px;
+    top: 600px;
+}
+
+.capa-4 {
+    position: absolute;
+    left: 960px;
+    top: 600px;
+}
+
+.lancamento-1 {
+    position: absolute;
+    left: 230px;
+    top: 860px;
+}
+
+.developer-1 {
+    position: absolute;
+    left: 230px;
+    top: 880px;
+}
+
+.lancamento-2 {
+    position: absolute;
+    left: 477px;
+    top: 860px;
+}
+
+.developer-2 {
+    position: absolute;
+    left: 477px;
+    top: 880px;
+}
+
+.lancamento-3 {
+    position: absolute;
+    left: 720px;
+    top: 860px;
+}
+
+.developer-3 {
+    position: absolute;
+    left: 720px;
+    top: 880px;
+}
+
+.lancamento-4 {
+    position: absolute;
+    left: 960px;
+    top: 860px;
+}
+
+.developer-4 {
+    position: absolute;
+    left: 960px;
+    top: 880px;
+}
+
+.free-games {
+    position: absolute;
+    left: 210px;
+    top: 960px;
+}
+
+.luz:hover {
+    filter: brightness(110%);
+}
+
+.free-games-1 {
+    position: absolute;
+    left: 246px;
+    top: 1047px;
+}
+
+.free-games-2 {
+    position: absolute;
+    left: 555px;
+    top: 1047px;
+}
+
+.free-games-3 {
+    position: absolute;
+    left: 864px;
+    top: 1047px;
+}
+
+button {
+    background-color: rgb(33, 34, 34);
+    border: 1px solid white;
+    color: white;
+    padding: 4px 12px;
+  }
+
+  .ver-mais {
+      position: absolute;
+      left: 1070px;
+      top: 995px;
+  }
+
+  .jogos-gratis {
+      position: absolute;
+      left: 300px;
+      top: 994px;
+  }
+
+  .gratis-1 {
+      position: absolute;
+      left: 246px;
+      top: 1250px;
+  }
+
+  .gratis-dia-1 {
+    position: absolute;
+    left: 246px;
+    top: 1265px;
+}
+
+.gratis-2 {
+    position: absolute;
+    left: 560px;
+    top: 1250px;
+}
+
+.gratis-dia-2 {
+  position: absolute;
+  left: 560px;
+  top: 1265px;
+}
+
+.gratis-3 {
+    position: absolute;
+    left: 867px;
+    top: 1250px;
+}
+
+.gratis-dia-3 {
+  position: absolute;
+  left: 867px;
+  top: 1265px;
+}
+
+.footer {
+    position: absolute;
+    left: 590px;
+    top: 1400px;
+}

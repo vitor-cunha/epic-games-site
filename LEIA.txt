@@ -1,0 +1,3 @@
+Criei este site com apenas 2 semanas aprendendo desenvolvimento web, decidi recriar o site da Epic Games Store para treinar e aperfeiçoar mais no desenvolvimento.
+
+-Vitor Cunha
